@@ -15,12 +15,6 @@
   "env": {
     "NODE_ENV": {
       "value": "PRODUCTION"
-    },
-    "SIGSCI_ACCESSKEYID": {
-      "value": "e1f6aa22-5360-42b6-95fc-322ff83df75f"
-    },
-    "SIGSCI_SECRETACCESSKEY": {
-      "value": "9j7vs_vDu34_raXgx2uyhh9rrzg-M_iMqk4OJDeNpiI"
     }
   },
   "addons": [
